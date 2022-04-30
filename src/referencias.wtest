@@ -34,7 +34,7 @@ test "posesiones" {
 	
 }
 
-test "historia" {
+test   {
 	rolando.encontrar(espada)
 	rolando.encontrar(libro)
 	rolando.encontrar(collar)
